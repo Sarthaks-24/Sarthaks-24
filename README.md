@@ -1,13 +1,14 @@
 <div align="center">
 
-# Hi, I'm Sarthak Suri
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sarthak%20Suri&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20%7C%20Systems%20%7C%20AI%20agents&descSize=20&descAlignY=58" alt="Sarthak Suri banner" />
 
-**CS undergrad (Scaler School of Technology + BITS Pilani, class of 2029) in Bengaluru.**
-I build backend systems, developer tools and AI agent platforms, and I'm looking for software engineering internships (backend, full-stack, SWE, QA).
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C5364&center=true&vCenter=true&width=640&lines=CS+undergrad+%40+Scaler+School+of+Technology+%2B+BITS+Pilani;I+build+Go%2C+Python+and+Node+backends;Looking+for+SWE+%2F+backend+%2F+full-stack+%2F+QA+internships)](https://github.com/Sarthaks-24)
+
+**Class of 2029, Bengaluru.** I build backend systems, developer tools and AI agent platforms.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sarthaksuri24-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthaksuri24)
 [![Email](https://img.shields.io/badge/Email-sarthaksuri2007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthaksuri2007@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=Sarthaks-24&style=for-the-badge&color=14213d)
+![Profile views](https://komarev.com/ghpvc/?username=Sarthaks-24&style=for-the-badge&color=2c5364)
 
 </div>
 
@@ -29,21 +30,11 @@ I build backend systems, developer tools and AI agent platforms, and I'm looking
 
 ## Stack
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=go,py,ts,js,java,c,react,svelte,django,nodejs,express,postgres,mysql,sqlite,mongodb,docker,githubactions,linux,git&perline=10)](https://skillicons.dev)
+
+</div>
 
 ## GitHub stats
 
@@ -53,5 +44,11 @@ I build backend systems, developer tools and AI agent platforms, and I'm looking
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthaks-24&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Sarthaks-24)
 
 [![Streak](https://streak-stats.demolab.com/?user=Sarthaks-24&theme=tokyonight&hide_border=true)](https://github.com/Sarthaks-24)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Sarthaks-24&theme=onedark&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarthaks-24&theme=react-dark&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="" />
 
 </div>
