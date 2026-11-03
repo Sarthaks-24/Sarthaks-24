@@ -17,7 +17,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**Podium**](https://github.com/Sarthaks-24/Podium) | Self-hosted platform for weekly college programming contests. Sandboxed multi-language judge (isolate), IOI-style partial scoring, live leaderboard, built for one small VM. | Go, Svelte 5, SQLite |
-| [**LifePeek**](https://github.com/Sarthaks-24/lifepeek) | Free 3D simulator that shows a meal travelling through the body, with English and Hindi, offline PWA and projector mode for classrooms. [Live app](https://lifepeek.vercel.app) | TypeScript, React, three.js |
+| [**LifePeek**](https://github.com/Sarthaks-24/lifepeek) | Free 3D simulator that shows a meal travelling through the body, with English and Hindi, offline PWA and projector mode for classrooms. | TypeScript, React, three.js |
 | [**Portfolio Control**](https://github.com/Sarthaks-24/AdminPanelCMS) | Multi-tenant headless CMS: write your portfolio content once, each site reads only the fields you grant through a read-only API. | Node, Express 5, MongoDB, React |
 | [**AIFinancialTeam**](https://github.com/Sarthaks-24/AIFinancialTeam) | Finance reconciliation engine: deterministic matching first, Gemini only for the leftovers. Razorpay AI Buildathon Track 04. | Django REST, PostgreSQL |
 | [**sinchan_env**](https://github.com/Sarthaks-24/sinchan_env) | RL environment trained with TRL GRPO + QLoRA. Finalist, Meta PyTorch OpenEnv Hackathon (800 of 31,000 teams). | Python, Hugging Face |
